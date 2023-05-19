@@ -20,3 +20,6 @@ KYY Group is a prominent supply chain management and logistics service provider 
 - Vasant Group: optimization of purchases to reduce food wastage
 
 Vasant Group entered the business of integrated farming with Vasant Farm Fresh (VFF) and discovered a serious food wastage problem. The prime concern was to identify and deploy practices to reduce wastage, thereby reducing the procurement cost and achieving better business margins. To achieve this goal, we have to determine the optimal procurement quantity for the produce under two assumptions: one is assuming a one day shelf life, and the other is assuming a two day shelf life.
+
+--------
+Course Instructor: Prof. Rahul Makhijani
