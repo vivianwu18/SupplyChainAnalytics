@@ -8,6 +8,10 @@ Supply chain analytics is the practice of using data and quantitative methods to
 - Task Allocation
 - Multi-commodity Flow Network
 
+## Simpy Environment
+- Beer Game Simulation
+- Risk Pooling
+
 ## Other Methods
 - Economic Order Quantity (EOQ)
 - Supply Chain Contract
