@@ -11,6 +11,7 @@ Supply chain analytics is the practice of using data and quantitative methods to
 ## Other Methods
 - Economic Order Quantity (EOQ)
 - Supply Chain Contract
+- Beer Game Simulation
 
 ## Case Study
 - KYY Group: optimization of product storage assignment
