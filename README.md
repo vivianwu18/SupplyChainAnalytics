@@ -25,5 +25,8 @@ KYY Group is a prominent supply chain management and logistics service provider 
 
 Vasant Group entered the business of integrated farming with Vasant Farm Fresh (VFF) and discovered a serious food wastage problem. The prime concern was to identify and deploy practices to reduce wastage, thereby reducing the procurement cost and achieving better business margins. To achieve this goal, we have to determine the optimal procurement quantity for the produce under two assumptions: one is assuming a one day shelf life, and the other is assuming a two day shelf life.
 
+- Marico LTD.: distribution network optimization
+Marico Limited is an Indian multinational consumer goods company based in Mumbai. Established in 1987, it offers a wide range of health and beauty products. Marico's popular brands include Parachute, Saffola, and Livon, known for their quality and recognition in India and beyond. With a focus on innovation and sustainability, Marico aims to optimize its supply chain by determining the number of warehouses (22 or 24) and effectively managing product flow to distributors. Freight costs are calculated based on factors like distances, product weights, and distributor locations, aiming to minimize costs and improve service levels.
+
 --------
 Course Instructor: Prof. Rahul Makhijani
